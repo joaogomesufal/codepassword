@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 # python 2.7
-alpha = {} #Existe um alfabeto escondido dentro de alguma sala do bloco C. Procure e tente executar o código
+alpha = {} #Existe um alfabeto escondido dentro de alguma corredor do bloco C. Procure e tente executar o código
 
 def gernerate(chars):
 	result = ''
